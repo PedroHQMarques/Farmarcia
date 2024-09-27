@@ -1,0 +1,1 @@
+createImageBitmap:https:rafaellindemann.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffc91fd6e-8ab9-4702-9997-d40bff18f361%2F319f4c3e-82a3-4672-9613-69beabdbd757%2Ffarmarcia-placa.png?table=block&id=6756a027-a925-4623-87a2-33e0726a2221&spaceId=fc91fd6e-8ab9-4702-9997-d40bff18f361&width=1150&userId=&cache=v2" alt="ImagemPlaca" />
